@@ -22,7 +22,7 @@ PRINT state
 PRINT zipCode
 */
 
-public class printData {
+public class PrintData {
     public static void main(String[] args) {
         String firstName = "Jack";
         String middleName = "Aiden";
